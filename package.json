@@ -1,6 +1,6 @@
 {
   "name": "webpack-zip-password",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "打包完成后加密指定文件夹",
   "main": "index.js",
   "scripts": {
