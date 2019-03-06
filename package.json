@@ -1,0 +1,30 @@
+{
+  "name": "webpack-zip-password",
+  "version": "1.0.0",
+  "description": "打包完成后加密指定文件夹",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyflysun/weback-zip-passord.git"
+  },
+  "keywords": [
+    "加密压缩",
+    "webpack",
+    "加密",
+    "压缩",
+    "zip",
+    "enctry"
+  ],
+  "author": "TZH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skyflysun/weback-zip-passord/issues"
+  },
+  "homepage": "https://github.com/skyflysun/weback-zip-passord#readme",
+  "devDependencies": {
+    "child_process": "^1.0.2"
+  }
+}
